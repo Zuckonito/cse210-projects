@@ -1,13 +1,13 @@
 using System;
 
-/*
 
-I added a smart word selection feature to the 'HideRandomWords' method. It only selects from words that 
-   are no already hidden using basic array loops. This avoids hiding the same word twice.
-And I also added a scripture library feature in Program.cs using a simple fixed-size array 
-of Scripture objects to randomly pick a scripture for the user.
 
-*/
+//I added a smart word selection feature to the 'HideRandomWords' method. It only selects from words that 
+ //  are no already hidden using basic array loops. This avoids hiding the same word twice.
+//And I also added a scripture library feature in Program.cs using a simple fixed-size array 
+//of Scripture objects to randomly pick a scripture for the user.
+
+
 
 class Program
 {
